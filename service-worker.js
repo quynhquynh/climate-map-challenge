@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/climate-map-challenge/precache-manifest.8d5806c05c4ffed7ee2459a4f639b5a6.js"
+  "/climate-map-challenge/precache-manifest.902f59ad38b4aab716610d9ac0bbfb0c.js"
 );
 
 workbox.clientsClaim();
