@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/climate-map-challenge/static/js/runtime~main.35ea640f.js"
   },
   {
-    "revision": "15f945e83148f20f7778",
-    "url": "/climate-map-challenge/static/js/main.15f945e8.chunk.js"
+    "revision": "ade1c96c3c7eeb55c719",
+    "url": "/climate-map-challenge/static/js/main.ade1c96c.chunk.js"
   },
   {
     "revision": "d64866f2fbbc714d21d6",
     "url": "/climate-map-challenge/static/js/1.d64866f2.chunk.js"
   },
   {
-    "revision": "15f945e83148f20f7778",
+    "revision": "ade1c96c3c7eeb55c719",
     "url": "/climate-map-challenge/static/css/main.a702a80d.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/climate-map-challenge/static/css/1.899a7619.chunk.css"
   },
   {
-    "revision": "469c982234ac3e492820c62fbb46c831",
+    "revision": "61ee556a4ab867579ae7fb65856a7c50",
     "url": "/climate-map-challenge/index.html"
   }
 ];
